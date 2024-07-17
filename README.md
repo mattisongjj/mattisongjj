@@ -44,6 +44,6 @@
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/mattisong
-[GElement-url]: https://www.gelement.com/company/our-profile/
+[GElement-url]: https://github.com/mattisongjj/internship-experience-G-Element
 [Senfi-url]: https://www.senfi.io/main/
 [GDSC-url]: https://gdsc.community.dev/national-university-of-singapore-singapore-singapore/
