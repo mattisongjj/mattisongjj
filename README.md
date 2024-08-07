@@ -18,7 +18,7 @@
 - Working as a fullstack engineering intern while building personal projects on the side!
 ```
 
-### 👨🏻‍💻 Languages and Tools <br />
+### 💻 Languages and Tools <br />
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -39,6 +39,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🧑‍💻 Past Projects <br />
+
+- [Rattis: Programming Practice Web App with AI feedback](https://rattis.vercel.app/)
+- [StoreBot: Warehouse Stocktaking telegram Chatbot](https://github.com/mattisongjj/StoreBot)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
