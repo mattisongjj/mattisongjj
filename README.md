@@ -4,7 +4,6 @@
 
 ### 📖 About Me
 
-- 💻 Current Fullstack Engineering Intern at [G Element](https://github.com/mattisongjj/internship-experience-G-Element), working on their [Senfi](https://www.senfi.io/main/) platform
 - 🎓 Bachelor of Computer Science at National University of Singapore, graduating December 2026
 - 🛠️ Tech Lead at [Google Developers Student Club](https://gdsc.community.dev/national-university-of-singapore-singapore-singapore/), leading Project Siew Dai
 - 🌟 Passionate about building software products that solve real-world problems through excellent engineering
@@ -15,7 +14,7 @@
 - 🔨 I'm Currently...
 
 ```yaml
-- Working as a fullstack engineering intern while building personal projects on the side!
+- Being a full time student and building personal projects on the side!
 ```
 
 ### 💻 Languages and Tools <br />
@@ -40,7 +39,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🧑‍💻 Past Projects <br />
+### 💼 Work Experience <br />
+
+- [Fullstack Engineering Intern at G Element](https://github.com/mattisongjj/internship-experience-G-Element), working on their [Senfi](https://www.senfi.io/main/) platform
+
+
+### 🧑‍💻 Projects <br />
 
 - [Rattis: Programming Practice Web App with AI feedback](https://rattis.vercel.app/)
 - [StoreBot: Warehouse Stocktaking telegram Chatbot](https://github.com/mattisongjj/StoreBot)
